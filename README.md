@@ -40,5 +40,3 @@ Here are some ideas to get you started:
 ---
 [instagram]: https://www.instagram.com/hoangf_vox/
 [linkedin]: https://www.linkedin.com/in/hoangfvox/
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
