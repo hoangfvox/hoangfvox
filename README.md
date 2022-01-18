@@ -1,9 +1,8 @@
 ### Hi there, I'm Vo Huy Hoang - aka HoangfVox 👋
 
 <!--
-**hoangfvox/hoangfvox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**hoangfvox/hoangfvox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+-->
 
 - 🔭 I’m currently a final year student
 - 🌱 I’m currently learning everything
