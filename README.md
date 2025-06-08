@@ -4,13 +4,12 @@
 **hoangfvox/hoangfvox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-## I'm a Developer, and Student!!
+## I'm a Software Developer!!
 
-- 🔭 I’m currently a final year student
-- 🌱 I’m currently learning everything
+- 🔭 I’m currently learning everything
 - 👯 I’m looking to collaborate on with other content creater
 - 💬 Ask me about code
-- ⚡ Fun fact: I love to solve rubiks and karaoke :))
+- ⚡ Fun fact: I love to solve rubiks and badminton :))
 
 ### Connect with me:
 
